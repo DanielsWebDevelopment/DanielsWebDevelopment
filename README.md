@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Macdonald</h1>
-<h3 align="center">A passionate frontend developer Vancouver Canada, British Columbia</h3>
+<h3 align="center">A passionate frontend developer located in Vancouver Canada, British Columbia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielswebdevelopment" alt="danielswebdevelopment" /></a> </p>
 
