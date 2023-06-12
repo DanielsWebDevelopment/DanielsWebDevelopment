@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielswebdevelopment" alt="danielswebdevelopment" /></a> </p>
 
-- 🔭 I’m currently working on **inproving my Portfolio**
+- 🔭 I’m currently working on **improving my Portfolio**
 
 - 🌱 I’m currently learning **React, Redux and SQL**
 
