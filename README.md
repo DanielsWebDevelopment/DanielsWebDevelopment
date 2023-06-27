@@ -1,5 +1,5 @@
 
-![Hi!,_Im_Daniel_Macdonald (1)](https://github.com/DanielsWebDevelopment/Start-Fitness-Website/assets/129445203/82f99f2a-3939-46ff-a071-12a127bc9db5)
+![Hi!,_Im_Daniel_Macdonald (2)](https://github.com/DanielsWebDevelopment/Start-Fitness-Website/assets/129445203/48f15bf1-164d-41e8-ac66-4e75e30f32eb)
 <h3 align="center">A passionate frontend developer located in Vancouver Canada, British Columbia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielswebdevelopment" alt="danielswebdevelopment" /></a> </p>
