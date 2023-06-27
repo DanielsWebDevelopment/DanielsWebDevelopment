@@ -1,5 +1,4 @@
-
-![Hi!,_Im_Daniel_Macdonald (2)](https://github.com/DanielsWebDevelopment/Start-Fitness-Website/assets/129445203/48f15bf1-164d-41e8-ac66-4e75e30f32eb)
+![Hi,_My_name_is_Daniel_Macdonald!](https://github.com/DanielsWebDevelopment/DanielsWebDevelopment/assets/129445203/6fd25afd-bc5e-40e4-aa5f-7e6b23e57310)
 <h3 align="center">A passionate frontend developer located in Vancouver Canada, British Columbia</h3>
 
 
