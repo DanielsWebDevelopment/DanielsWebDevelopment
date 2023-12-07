@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Anything!**
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript or React!**
 
 - 📫 How to reach me **danny.macdonald2350@gmail.com**
 
