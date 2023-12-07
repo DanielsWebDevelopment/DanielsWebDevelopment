@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **improving my Portfolio**
 
-- 🌱 I’m currently learning **React, Redux and SQL**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
