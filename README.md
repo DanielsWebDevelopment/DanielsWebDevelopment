@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer located in Vancouver Canada, British Columbia</h3>
 
 
-- 🔭 I’m currently working on **improving my Portfolio**
+- 🔭 I’m currently working on **building & improving my Ai Resume Analysis Optimization tool**
 
 - 🌱 I’m currently learning **REACT**
 
