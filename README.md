@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Anything!**
 
-- 💬 Ask me about **Today's languages and technologies!**
+- 💬 Ask me about **today's languages and technologies!**
 
 - 📫 How to reach me **danny.macdonald2350@gmail.com**
 
