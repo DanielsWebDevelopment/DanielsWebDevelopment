@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **danny.macdonald2350@gmail.com**
 
-- ⚡ Fun fact **I enjoy playing video games!**
+- ⚡ Fun fact **I enjoy listening to music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
