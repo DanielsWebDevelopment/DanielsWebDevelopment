@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **building & improving my Ai Resume Analysis Optimization tool**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **AI-Driven TTS Integrations**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
