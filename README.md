@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **today's languages and technologies!**
 
-- 📫 How to reach me **danny.macdonald2350@gmail.com**
+- 📫 How to reach me **Linkedin**
 
 - ⚡ Fun fact **I enjoy listening to music!**
 
